@@ -24,5 +24,5 @@
 
 * **Website:** [davm.dev/contact](https://davm.dev/contact) *(Preferred)*
 * **Email:** [hi@davm.dev](mailto:hi@davm.dev)
-* **X / Twitter:** [@dmx3377](https://x.com/dmx3377)
+* **𝕏:** [@davmdev](https://x.com/davmdev)
 * **Instagram:** [@davmdev](https://instagram.com/davmdev)
