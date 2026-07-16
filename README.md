@@ -12,7 +12,7 @@
 ## Tech Stack & Capabilities
 
 * **Systems & High-Performance Backend:** Building optimized data ingestion systems, microservices, and parsing engines.
-  * `C++` • `C` • `C#` • `.NET` • `Go` • `Rust` *(Learning...)* • `Docker`
+  * `C++` • `C` • `C#` • `.NET` • `Go` • `Docker`
 * **Mobile & Web Development:** Crafting fast, lightweight, and modern user experiences.
   * `Kotlin` • `Android SDK` • `TypeScript` • `JavaScript` • `React` • `Tailwind CSS`
 * **Scripting & Data Analysis:** Handling data pipelines and automation tools.
