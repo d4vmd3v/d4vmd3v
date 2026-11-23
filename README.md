@@ -4,7 +4,6 @@
 
 <p align="center">
   <strong>Software Developer</strong><br>
-  <span style="font-size:.6rem;">From the <s>terrible</s> town of Reading, UK...</span>
 </p>
 
 ---
